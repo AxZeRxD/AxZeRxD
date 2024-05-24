@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm AxZeRxD</h1>
-<h3 align="center">I am a Python, Javascript, GoLang, and HTML programmer.</h3>
+<h3 align="center">I am a Python and HTML programmer.</h3>
 
 - 🛠️ I’m currently working on **The Biggest AIO Checker Tool (+30 Account Checkers)**
 
-- 🌱 I’m currently learning **𝐂# & C++**
-
-- 🚀 When I'm bored or in my free time, I work on **Python projects**
-
-- 🔥 Upcoming Repositories : **Discord MassDM (Captcha Solver)** & **A Lot Of Account Checkers**
+- 🌱 I’m currently learning **C++ & C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
