@@ -7,8 +7,7 @@
 <a href="https://discord.gg/bxbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1086567184920227900)](https://discord.com/users/1086567184920227900)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/238854481977147393)](https://discord.com/users/238854481977147393)
 ## Visitors:
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=AxZeRxD&countColorcountColor&countColor=%23FF0000" alt="Profile Views">
