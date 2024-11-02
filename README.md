@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@nukersop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AxZeRxD" height="30" width="40" /></a>
-<a href="https://discord.gg/bxbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
+<a href="https://discord.gg/programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nA6cpGmejn" height="30" width="40" /></a>
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/808340478075994172)](https://discord.com/users/808340478075994172)
