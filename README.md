@@ -49,7 +49,7 @@ me.say_hi()
 <a href="https://www.youtube.com/@nukersop" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&edge_flat=false" alt="YouTube"/>
 </a>
-<a href="https://discord.gg/programmer" target="_blank">
+<a href="https://discord.gg/programmers" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&edge_flat=false" alt="Discord"/>
 </a>
 <a href="https://github.com/AxZeRxD" target="_blank">
