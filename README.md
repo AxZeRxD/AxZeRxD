@@ -1,4 +1,4 @@
-[![Discord Presence) (https://lanyard.cnrad.dev/api/238854481977147393)](https://discord.com/users/238854481977147393)
+[![Discord] Presence)(https://lanyard.cnrad.dev/api/238854481977147393)](https://discord.com/users/238854481977147393)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+AxZeRxD;Crafting+Digital+Solutions" alt="Typing SVG" />
